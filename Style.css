@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #F9F9F9;
+    color: #333333; 
+    line-height: 1.6;
+}
+/* Please paste the FULL CSS content here. */
+.hero {
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 400px;
+    overflow: hidden;
+}
+/* ... etc. ... */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333333;
+    color: #FDFDFD;
+    margin-top: 40px;
+}
